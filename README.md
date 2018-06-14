@@ -16,6 +16,6 @@ Downloading Episode 4 [==============================----------] 75% | ETA: 0s |
 ### Options
 
 - `--comic` comic id from webtoons
-  - in `http://www.webtoons.com/en/drama/lumine/list?title_no=1022` the comic id is `1022`
+  - in `https://www.webtoons.com/id/slice-of-life/lazy-cooking/ep41-pancake-pisang/viewer?title_no=657&episode_no=42&webtoonType=WEBTOON` the comic id is `657`
 - `--out`: defaults to cwd
 - `--pdf`: output pdfs of the episodes instead of folders with images
